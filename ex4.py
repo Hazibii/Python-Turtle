@@ -1,3 +1,9 @@
+'''
+Hacker Pals
+Python Turtles Tutorial
+http://hackerpals.com
+'''
+
 import turtle
 
 star = turtle.Turtle()

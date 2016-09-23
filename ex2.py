@@ -1,3 +1,9 @@
+'''
+Hacker Pals
+Python Turtles Tutorial
+http://hackerpals.com
+'''
+
 import turtle
 
 leo = turtle.Turtle()   #Creating the leo
@@ -7,11 +13,11 @@ leo.right(90)      # Rotate clockwise by 90 degrees
 
 leo.forward(50)
 leo.right(90)      # Rotate clockwise by 90 degrees
- 
+
 leo.forward(50)
 leo.right(90)       # Rotate clockwise by 90 degrees
 
 leo.forward(50)
-leo.right(90)        #Rotate clockwise by 90 degrees 
+leo.right(90)        #Rotate clockwise by 90 degrees
 
 turtle.done()       #Finish the program

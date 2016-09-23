@@ -1,5 +1,11 @@
+'''
+Hacker Pals
+Python Turtles Tutorial
+http://hackerpals.com
+'''
+
 import turtle
- 
+
 myTurtle = turtle.Turtle(shape="turtle")
 
 myTurtle.pencolor("green")
@@ -27,12 +33,11 @@ myTurtle.setposition(-60, 60)
 myTurtle.pendown()
 myTurtle.circle(50)
 
-myTurtle.pencolor("blue") 
- 
+myTurtle.pencolor("blue")
+
 myTurtle.penup()
 myTurtle.setposition(-180, 60)
 myTurtle.pendown()
 myTurtle.circle(50)
 
 turtle.done()
- 

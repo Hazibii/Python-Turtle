@@ -1,3 +1,8 @@
+'''
+Hacker Pals
+Python Turtles Tutorial
+http://hackerpals.com
+'''
 #Example 1: Draw A line
 
 #Step 1

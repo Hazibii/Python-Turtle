@@ -1,4 +1,10 @@
-import turtle 
+'''
+Hacker Pals
+Python Turtles Tutorial
+http://hackerpals.com
+'''
+
+import turtle
 
 seurat = turtle.Turtle()
 
@@ -16,5 +22,5 @@ for y in range(height):
     seurat.right(90)
     seurat.forward(dot_distance)
     seurat.left(90)
-    
+
 turtle.done()
