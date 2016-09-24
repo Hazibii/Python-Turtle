@@ -1,3 +1,3 @@
-# Python Turtle Exercies
+#Python Turtle Exercise
 
 Python GUI turtles

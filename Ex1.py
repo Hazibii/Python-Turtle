@@ -12,7 +12,7 @@ import turtle
 
 leo = turtle.Turtle()
 
-#Step 3 Move bob
+#Step 3 Move Leo
 
 leo.forward(50)
 
