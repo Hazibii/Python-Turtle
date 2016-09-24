@@ -22,7 +22,7 @@ smiles.circle(10)     #Draw eye two
 smiles.penup()
 smiles.goto(-90,70)
 smiles.pendown()
-smiles.setheading(270) #set heading to go south
-smiles.circle(80,180)
+smiles.setheading(-290) #set heading to go south
+smiles.circle(100,140)
 
 turtle.done() #Finish

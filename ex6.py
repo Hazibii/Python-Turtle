@@ -16,14 +16,14 @@ import turtle
 
 star = turtle.Turtle()
 
-star.pencolor("blue") # Set pen color to Blue
+star.pencolor("#3ABDE8") # Set pen color to Blue
 
 for i in range(50):
     star.forward(50)
     star.left(123) # Let's go counterclockwise this time
 
 #Start of Big Star
-star.pencolor('red') # Set pen color to Red
+star.pencolor('#DE5F9A') # Set pen color to Red
 for i in range(50):
     star.forward(100)
     star.left(123)
